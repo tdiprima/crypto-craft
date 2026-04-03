@@ -4,7 +4,7 @@ Hands-on reference implementations of symmetric encryption, password hashing, fi
 
 ## Cryptography Is Hard to Get Right
 
-Developers who need to encrypt data or verify integrity often reach for third-party libraries without understanding what's happening underneath — or they roll their own implementations using outdated approaches (MD5, SHA1 for passwords, ECB mode, static IVs). The result is code that looks secure but isn't.
+Developers who need to encrypt data or verify integrity often reach for third-party libraries, or they roll their own implementations using outdated approaches (MD5, SHA1 for passwords, ECB mode, static IVs). Sometimes the result is code that looks secure but isn't.
 
 ## Learning by Working Example
 
