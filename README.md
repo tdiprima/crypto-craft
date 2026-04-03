@@ -1,4 +1,4 @@
-# Node.js Cryptography Examples
+# Crypto Craft
 
 Hands-on reference implementations of symmetric encryption, password hashing, file encryption, and HMAC authentication using Node.js's built-in `crypto` module — no third-party dependencies required.
 
