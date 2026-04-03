@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+ 
+# Environment / secrets
+.env 
+.env.*
+!.env.example
+
+# Encrypted output files 
+*.enc
+*.aes
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+ 
+# Logs 
+logs/
+*.log
